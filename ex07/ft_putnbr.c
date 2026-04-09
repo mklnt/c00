@@ -4,7 +4,7 @@ void	ft_putnbr(int nb);
 
 int	main(void)
 {
-	ft_putnbr(42);
+	ft_putnbr(42000);
 	write(1, "\n", 1);
 	ft_putnbr(-42);
 	write(1, "\n", 1);
